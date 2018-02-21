@@ -1,2 +1,1 @@
-Some Random text
-1234
+The backend of the app. This is built using the Slim framework.
